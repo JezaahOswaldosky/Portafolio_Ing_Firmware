@@ -4,12 +4,12 @@ _Nombre del Proyecto: Iluminación para Pasillos_
 _Versión del Firmware: V.0.1_
 Autor(es): Jesus Osvaldo Sandoval S.
 Fecha: 09/10/2026
-Objetivo del Hardware: Proporcionar alumbrado en un pasillo utilizando dos interruptores y el microcontrolador ESP32._ 
+_Objetivo del Hardware: Proporcionar alumbrado en un pasillo utilizando dos interruptores y el microcontrolador ESP32._ 
 
 _Debido a no encontrar un programa OpenSource para utilizar una lista de tareas para aumentar la productividad y sobre todo mi motivacion a seguir trabajando. Ya que muchas herramientas como Scrum, Kanbam, entre otros piden demasiada informacion al usuario para poder funcionar. Como registrarte con una cuenta de correo, numero telefonico, iniciar sesion para utilizar el software, entre otras condiciones. Entonces me di cuenta que como programador y desarrollador, soy capaz de programar mi propia herramienta con juegos de azar y mujerzuelas llamada ScrumTool_V3, cuyo nombre quedo de la primera version. Pero en realidad es una lista de tareas con puntos de experiencia y niveles como indicio de motivacion personal para acompletar cada tarea en la lista._
 
-_Nombre del Proyecto: Iluminacion para Pasillos_
-_Version del Firmware: V.0.1_
+_Nombre del Proyecto - Iluminacion para Pasillos_
+_Version del Firmware - V.0.1_
 
 
 Descripción:
