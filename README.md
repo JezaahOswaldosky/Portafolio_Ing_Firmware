@@ -1,10 +1,10 @@
 # Documentación de Firmware
 ## 1. DESCRIPCION GENERAL
-_ Nombre del Proyecto: Iluminación para Pasillos 
-_ Versión del Firmware: V.0.1
-_ Autor(es): Jesus Osvaldo Sandoval S.
-_ Fecha: 09/10/2026
-_ Objetivo del Hardware: Proporcionar alumbrado en un pasillo utilizando dos interruptores y el microcontrolador ESP32. 
+_Nombre del Proyecto: Iluminación para Pasillos_
+_Versión del Firmware: V.0.1_
+_Autor(es): Jesus Osvaldo Sandoval S._
+_Fecha: 09/10/2026_
+_Objetivo del Hardware: Proporcionar alumbrado en un pasillo utilizando dos interruptores y el microcontrolador ESP32._ 
 
 Descripción:
 Breve explicación de lo que hace el firmware.
