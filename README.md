@@ -1,5 +1,5 @@
-#_Documentación de Firmware
-##1. DESCRIPCION GENERAL
+# Documentación de Firmware
+## 1. DESCRIPCION GENERAL
 Nombre del Proyecto: 
 Versión del Firmware:
 Autor(es):
