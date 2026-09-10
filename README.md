@@ -14,7 +14,7 @@ _Version del Firmware - V.0.1_
 
 Descripción:
 Breve explicación de lo que hace el firmware.
-##2. Hardware
+## 2. Hardware
 Microcontrolador / SoC:
 Periféricos utilizados (UART, SPI, I2C, GPIO, etc.):
 Componentes externos (sensors, memory, actuators, etc.):
@@ -28,7 +28,7 @@ Ejemplo de directorios:
 /drivers
    uart_driver.c
    spi_driver.c
-##4. Build Instructions
+## 4. Build Instructions
 IDE / Toolchain: Espressif IDE
 Compiler: 
 
